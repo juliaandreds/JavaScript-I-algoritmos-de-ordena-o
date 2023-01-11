@@ -1,4 +1,4 @@
-const precosLivros = [
+const livros = [
     {
       titulo: "JavaScript",
       preco: 25
@@ -25,4 +25,4 @@ const precosLivros = [
     }
   ];
   
-  module.exports = precosLivros;
+  module.exports = livros;
